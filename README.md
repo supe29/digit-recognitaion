@@ -1,5 +1,5 @@
 # digit-recognitaion
-hand written  digit recognition  using  CNN sequential model 
+Hand written  digit recognition  using  CNN sequential model 
 
 Libraries- Opencv2, Tenserflow, matplotlib, numpy
 
